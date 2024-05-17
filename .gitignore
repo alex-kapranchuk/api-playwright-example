@@ -15,6 +15,11 @@ build/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.gradle/
+*.idea/
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
 
 ### Eclipse ###
 .apt_generated
